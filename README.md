@@ -18,10 +18,6 @@ This website serves as an online resume and project showcase. It includes:
 - **CSS3**
 - **JavaScript**
 
-## Folder Structure
-```My-Portfolio/ |-- index.html  #
-Main
-
 ## Installation
 To set up this project locally, follow these steps:
 
